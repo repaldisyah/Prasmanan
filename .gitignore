@@ -1,0 +1,9 @@
+target/
+warung.db
+*.class
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
